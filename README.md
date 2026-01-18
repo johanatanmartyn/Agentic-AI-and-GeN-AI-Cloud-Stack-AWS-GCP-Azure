@@ -7,13 +7,31 @@
 
 ### 🛠️ Tech Stack Used
 
+### 🛠️ Tech Stack Used
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-336699?style=for-the-badge&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![NLTK](https://img.shields.io/badge/NLTK-NLP-3776AB?style=for-the-badge) 
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) 
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+![LLaMA](https://img.shields.io/badge/Meta%20LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white) 
+![Groq](https://img.shields.io/badge/Groq-Fast%20Inference-F55036?style=for-the-badge)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
 ![CrewAI](https://img.shields.io/badge/CrewAI-FB542B?style=for-the-badge) 
 ![Agno](https://img.shields.io/badge/Agno-Framework-00A699?style=for-the-badge) 
 ![AutoGen](https://img.shields.io/badge/AutoGen-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Phi Data](https://img.shields.io/badge/Phi%20Data-Agentic-1C3C3C?style=for-the-badge)
 ![LangFlow](https://img.shields.io/badge/LangFlow-Low%20Code-4B0082?style=for-the-badge) 
 ![MCP](https://img.shields.io/badge/MCP-Standard-E94E77?style=for-the-badge)
 
@@ -25,8 +43,7 @@
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-E9573F?style=for-the-badge) 
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-0081CB?style=for-the-badge) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white) 
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector-1C3C3C?style=for-the-badge)
 
 ![n8n](https://img.shields.io/badge/n8n-Workflow-FF6584?style=for-the-badge&logo=n8n&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -34,8 +51,10 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-GenAI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-ML-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+![Vertex AI](https://img.shields.io/badge/GCP%20Vertex%20AI-ML-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![LangSmith](https://img.shields.io/badge/LangSmith-Observability-1C3C3C?style=for-the-badge) 
 ![Langfuse](https://img.shields.io/badge/Langfuse-Tracing-E13838?style=for-the-badge) 
