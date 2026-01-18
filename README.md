@@ -1,7 +1,8 @@
 
 ---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=PRODUCTION%20READY%20AGENTIC%20AI%20%26%20GENAI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Agentic%20and%20GeN%20AI%20With%20Cloud's&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ---
