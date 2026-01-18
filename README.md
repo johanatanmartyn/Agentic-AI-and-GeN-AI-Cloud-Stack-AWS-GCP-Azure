@@ -5,6 +5,43 @@
 [![Cloud Computing](https://img.shields.io/badge/Cloud-AWS%20%26%20GCP-orange?style=for-the-badge&logo=googlecloud)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+### 🛠️ Tech Stack Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
+![CrewAI](https://img.shields.io/badge/CrewAI-FB542B?style=for-the-badge) 
+![Agno](https://img.shields.io/badge/Agno-Framework-00A699?style=for-the-badge) 
+![AutoGen](https://img.shields.io/badge/AutoGen-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![LangFlow](https://img.shields.io/badge/LangFlow-Low%20Code-4B0082?style=for-the-badge) 
+![MCP](https://img.shields.io/badge/MCP-Standard-E94E77?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white) 
+![BentoML](https://img.shields.io/badge/BentoML-Model%20Serving-00D2A7?style=for-the-badge) 
+![LangServe](https://img.shields.io/badge/LangServe-Deploy-1C3C3C?style=for-the-badge) 
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-E9573F?style=for-the-badge) 
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-0081CB?style=for-the-badge) 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white) 
+
+![n8n](https://img.shields.io/badge/n8n-Workflow-FF6584?style=for-the-badge&logo=n8n&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-GenAI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+
+![LangSmith](https://img.shields.io/badge/LangSmith-Observability-1C3C3C?style=for-the-badge) 
+![Langfuse](https://img.shields.io/badge/Langfuse-Tracing-E13838?style=for-the-badge) 
+![Opik](https://img.shields.io/badge/Opik-Monitoring-7B68EE?style=for-the-badge) 
+![ClearML](https://img.shields.io/badge/ClearML-MLOps-182335?style=for-the-badge)
+
 > **Master the Future of AI:** From Fundamentals to Autonomous Multi-Agent Systems, RAG, and Enterprise Cloud Deployment.
 
 ---
