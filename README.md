@@ -74,7 +74,25 @@
 
 ---
 
-## 🚀 Overview
+## � Table of Contents
+
+- [🛠️ Tech Stack Used](#️-tech-stack-used)
+- [🚀 Overview](#-overview)
+  - [🌟 Key Features](#-key-features)
+- [📚 Key Breakdown](#-key-breakdown)
+  - [🔹 Phase 1: Foundations of Agentic AI](#-phase-1-foundations-of-agentic-ai)
+  - [🔹 Phase 2: Orchestration & Serving](#-phase-2-orchestration--serving)
+  - [🔹 Phase 3: Advanced Architectures](#-phase-3-advanced-architectures)
+  - [🔹 Phase 4: Tools & Low-Code](#-phase-4-tools--low-code)
+  - [🔹 Phase 5: Emerging Frameworks & Automation](#-phase-5-emerging-frameworks--automation)
+  - [🔹 Phase 6: Cloud & Production](#-phase-6-cloud--production)
+- [🎯 Key Objective](#-key-objective)
+- [⚙️ Getting Started](#️-getting-started)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📞 Contact & Networking](#-contact--networking-)
+
+## �🚀 Overview
 
 Welcome to the **Agentic AI & Generative AI Bootcamp**. This comprehensive repository encapsulates a cutting-edge curriculum designed to transform beginners into industry-ready AI Engineers. 
 
