@@ -41,7 +41,7 @@ We utilize a state-of-the-art technology stack to build resilient AI application
 
 ---
 
-## 📚 Curriculum Roadmap
+## 📚 Key Breakdown
 
 Our structured learning path ensures a logical progression of skills.
 
@@ -99,7 +99,7 @@ Our structured learning path ensures a logical progression of skills.
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Key Objective
 
 By the completion of this bootcamp, you will be able to:
 1.  **Architect** complex multi-agent systems that solve real-world problems.
