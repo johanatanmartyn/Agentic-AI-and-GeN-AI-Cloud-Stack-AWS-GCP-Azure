@@ -87,7 +87,7 @@
   - [🔹 Phase 5: Emerging Frameworks & Automation](#-phase-5-emerging-frameworks--automation)
   - [🔹 Phase 6: Cloud & Production](#-phase-6-cloud--production)
 - [🎯 Key Objective](#-key-objective)
-- [📂 Course Files & Resources](#-course-files--resources)
+- [📂 Files & Resources](#-files--resources)
 - [⚙️ Getting Started](#️-getting-started)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
@@ -194,7 +194,7 @@ By the completion of this bootcamp, you will be able to:
 
 ---
 
-## 📂 Course Files & Resources
+## 📂 Files & Resources
 
 Access the detailed curriculum summaries, tech stack breakdowns, and full PDF guides directly below.
 
