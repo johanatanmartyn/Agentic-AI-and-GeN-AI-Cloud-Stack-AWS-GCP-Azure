@@ -204,9 +204,71 @@ Access the detailed curriculum summaries, tech stack breakdowns, and full PDF gu
 *   **Combined:** [Overview Summary](Combined%20Overview%20Modules%20Summary.txt) • [Full Tech Stack](Combined%20Tech%20Stack%20%28Agentic%20AI%20%26%20GenAI%29.txt)
 
 ### 📕 PDF Guides
-*   **Course Textbooks:** [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) • [V2 PDF Guide](Agentic%20AI%20&%20Gen%20AI%20with%20Cloud_V2.pdf)
+*   **Course Textbooks:**
+*   [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) 
+*   [V2 PDF Guide](Agentic%20AI%20&%20Gen%20AI%20with%20Cloud_V2.pdf)
 
 ---
+
+# [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf)
+
+<img width="940" height="772" alt="image" src="https://github.com/user-attachments/assets/e01e36c5-71d2-44f5-ad8d-a34f206b08c0" />
+<img width="940" height="990" alt="image" src="https://github.com/user-attachments/assets/f13662ed-e2c5-4bd2-aa93-dea4132f929b" />
+<img width="940" height="948" alt="image" src="https://github.com/user-attachments/assets/35a634b2-3c3a-4418-b7b4-3b758b5d55c0" />
+<img width="940" height="841" alt="image" src="https://github.com/user-attachments/assets/58134b45-a8cc-4eb7-b6f1-ee2e189f2567" />
+<img width="940" height="935" alt="image" src="https://github.com/user-attachments/assets/8f0d13be-cbdf-4ea2-9a8f-b1492f225072" />
+<img width="940" height="858" alt="image" src="https://github.com/user-attachments/assets/3ad16ed9-0751-49a4-a2df-c0a8ba14a0f9" />
+<img width="940" height="683" alt="image" src="https://github.com/user-attachments/assets/a96c4ed7-7e86-4e55-aada-a68fb539fd23" />
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/9a3fa938-10a5-4acb-a909-a24572d65bad" />
+<img width="940" height="738" alt="image" src="https://github.com/user-attachments/assets/f79c4409-34d8-4665-85d0-34a3fc29ec89" />
+<img width="940" height="744" alt="image" src="https://github.com/user-attachments/assets/a0515495-7cde-4be9-b7a5-311b96e4ba1d" />
+<img width="940" height="899" alt="image" src="https://github.com/user-attachments/assets/4d7e6633-5441-4694-912e-4a175b0eb3d0" />
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/d0daaf1b-a716-4d93-b65b-0fd4825e2c47" />
+<img width="940" height="808" alt="image" src="https://github.com/user-attachments/assets/67d736fc-958e-4ff9-9d64-7a4e93b0dec2" />
+<img width="940" height="776" alt="image" src="https://github.com/user-attachments/assets/c534e317-effb-4237-ab3f-87965a6050a3" />
+<img width="940" height="772" alt="image" src="https://github.com/user-attachments/assets/f9b2f4b1-0a08-4578-9e6a-eeaeb21a37e6" />
+<img width="940" height="835" alt="image" src="https://github.com/user-attachments/assets/6598c966-3733-44d6-85b4-6d4879647ef2" />
+<img width="940" height="908" alt="image" src="https://github.com/user-attachments/assets/4948dbc0-87e6-46d5-8266-5ad0fad0c539" />
+<img width="940" height="414" alt="image" src="https://github.com/user-attachments/assets/dd4697a8-099b-453e-a50d-2bd47287eed0" />
+<img width="940" height="601" alt="image" src="https://github.com/user-attachments/assets/7833a9f6-3159-454d-90f3-bb9a09b1979f" />
+<img width="940" height="677" alt="image" src="https://github.com/user-attachments/assets/f00f4ed6-76bf-469b-b464-d074d74fc371" />
+<img width="940" height="734" alt="image" src="https://github.com/user-attachments/assets/ab001e4d-64f4-4335-a36e-b7d8adfd4651" />
+<img width="940" height="741" alt="image" src="https://github.com/user-attachments/assets/5f574b6d-7771-4499-b0b0-6cd7432fa547" />
+<img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/cb8e043b-f6e4-48fa-ad57-7dde8c3d8a6d" />
+<img width="940" height="648" alt="image" src="https://github.com/user-attachments/assets/ecc2218d-4f98-4e5e-8ee1-a69adacad1b4" />
+<img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/d90166f8-0876-4b67-94db-1737463c7430" />
+<img width="940" height="680" alt="image" src="https://github.com/user-attachments/assets/4140c24d-7084-4989-b91e-b1d7089199c3" />
+<img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/06c71c9b-a258-4cf0-bfe2-decb84f45b46" />
+<img width="940" height="629" alt="image" src="https://github.com/user-attachments/assets/106ca0f6-1a7c-4dfa-9605-d6a4a966892d" />
+<img width="940" height="1054" alt="image" src="https://github.com/user-attachments/assets/4f6ecfee-1581-49d9-9d7f-e1ac5b6e8d7b" />
+<img width="940" height="688" alt="image" src="https://github.com/user-attachments/assets/67946c23-0669-41ef-b329-8aac203dbe23" />
+
+---
+
+# [V2 PDF Guide](Agentic%20AI%20&%20Gen%20AI%20with%20Cloud_V2.pdf)
+
+<img width="940" height="1167" alt="image" src="https://github.com/user-attachments/assets/3698b833-0ca5-4c7d-bbfd-83bfb5db1213" />
+<img width="940" height="729" alt="image" src="https://github.com/user-attachments/assets/8600e59f-f961-43d3-85dd-fe6376137ffb" />
+<img width="940" height="736" alt="image" src="https://github.com/user-attachments/assets/e38358f8-b2ac-4e98-8418-59bc20cfb4ca" />
+<img width="940" height="842" alt="image" src="https://github.com/user-attachments/assets/dd20f642-7434-449a-b543-89e180500efd" />
+<img width="940" height="733" alt="image" src="https://github.com/user-attachments/assets/88ce4a61-ebf9-4491-99d6-7707a38ba9aa" />
+<img width="940" height="774" alt="image" src="https://github.com/user-attachments/assets/15633f39-96b8-4707-b84d-ae2c49a7a8c3" />
+<img width="940" height="672" alt="image" src="https://github.com/user-attachments/assets/291f7792-33ea-4d3e-8ac5-d2e5efa936b5" />
+<img width="940" height="730" alt="image" src="https://github.com/user-attachments/assets/1819474e-934c-47dc-9922-026b49604749" />
+<img width="940" height="639" alt="image" src="https://github.com/user-attachments/assets/d2e56c9a-640b-4ef4-b8b9-c77e2340e3d5" />
+<img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/22f2f031-1bc6-48a9-a49f-c75c618fe870" />
+<img width="940" height="760" alt="image" src="https://github.com/user-attachments/assets/03bef55c-b14a-4a1c-a006-3f5561a1a0fa" />
+<img width="940" height="870" alt="image" src="https://github.com/user-attachments/assets/99abbb30-f1e9-4e52-b386-471ad5584d9e" />
+<img width="940" height="871" alt="image" src="https://github.com/user-attachments/assets/4f08175d-36a6-47d3-9797-8b6da2789929" />
+<img width="940" height="964" alt="image" src="https://github.com/user-attachments/assets/06432b54-ee24-443a-b10c-a991911a8c8d" />
+<img width="940" height="821" alt="image" src="https://github.com/user-attachments/assets/65177434-65b4-4976-8eda-663ac0a7aaf8" />
+<img width="940" height="821" alt="image" src="https://github.com/user-attachments/assets/d4ae2f9b-a356-4345-a687-213a4d971827" />
+<img width="940" height="911" alt="image" src="https://github.com/user-attachments/assets/3a8d11ed-571b-47e9-8f15-ac40d02b434d" />
+<img width="940" height="1006" alt="image" src="https://github.com/user-attachments/assets/1b12a23b-7ade-4a3c-abb5-41ee10da3d64" />
+<img width="940" height="1075" alt="image" src="https://github.com/user-attachments/assets/87ba25bd-f0c2-48aa-b146-526eb3b93c72" />
+<img width="940" height="833" alt="image" src="https://github.com/user-attachments/assets/c344820a-c75a-40a9-82bc-435538e11dcf" />
+<img width="940" height="919" alt="image" src="https://github.com/user-attachments/assets/a700ad31-b61c-4b05-9023-c0c7d8b05c62" />
+
 
 ## ⚙️ Getting Started
 
